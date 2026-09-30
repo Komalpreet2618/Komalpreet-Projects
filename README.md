@@ -62,7 +62,7 @@ The application provides an interactive interview experience and uses AI to anal
 * Performance evaluation
 * Interview preparation assistance
 
-🔗 **[View AI Interview Coach Project](#)**
+🔗 **[View AI Interview Coach Project](./AI-Interview-Coach)**
 
 ---
 
@@ -90,7 +90,7 @@ The application provides dashboards and visualizations to help monitor academic 
 * Data upload and download
 * Interactive academic dashboard
 
-🔗 **[View DASHGRADE Project](#)**
+🔗 **[View DASHGRADE Project](./DASHGRADE)**
 
 ---
 
