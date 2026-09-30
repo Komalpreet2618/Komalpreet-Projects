@@ -1,0 +1,201 @@
+.issue-summary {
+  margin: 20px 0;
+}
+
+.issue-summary h2 {
+  margin-bottom: 10px;
+}
+
+.issue-summary-list {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.summary-card {
+  margin: 0;
+  padding: 16px 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #fff;
+  min-width: 140px;
+  text-align: center;
+  font-weight: 600;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.summary-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12);
+}
+
+.priority-summary {
+  margin: 20px 0;
+}
+
+.priority-summary h2 {
+  margin-bottom: 10px;
+}
+
+.priority-summary-list {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.manage-issues-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 30px 20px;
+}
+
+.manage-issues-page > h1 {
+  margin-bottom: 25px;
+  font-size: 32px;
+}
+
+.issue-controls {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-bottom: 25px;
+  padding: 16px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #f8f9fa;
+}
+
+.filter-control {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.issue-controls input,
+.issue-controls select {
+  padding: 8px 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+  background-color: #fff;
+  color: #222;
+}
+
+.issue-controls select option {
+  background-color: #fff;
+  color: #222;
+}
+
+.issue-controls input {
+  min-width: 220px;
+}
+
+.issue-controls input:focus,
+.issue-controls select:focus {
+  outline: none;
+  border-color: #666;
+}
+
+.issue-controls > button {
+  padding: 8px 14px;
+  border: none;
+  border-radius: 6px;
+  background-color: #333;
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.issue-controls > button:hover {
+  background-color: #555;
+}
+
+.total-issues {
+  margin: 20px 0;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.issue-card {
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.issue-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+.issue-card-title {
+  margin-top: 0;
+  margin-bottom: 14px;
+  font-size: 21px;
+}
+
+.issue-card-title a {
+  color: #222;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.issue-card-title a:hover {
+  text-decoration: underline;
+}
+
+.issue-card > p {
+  margin: 10px 0;
+  line-height: 1.5;
+}
+
+.issue-action {
+  margin: 16px 0;
+  padding: 12px;
+  border-radius: 8px;
+  background-color: #f8f9fa;
+  border: 1px solid #e5e5e5;
+  color: #333;
+}
+
+.issue-action label {
+  margin-right: 8px;
+}
+
+.issue-action select {
+  padding: 7px 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background-color: #fff;
+  color: #222;
+}
+
+.issue-action button {
+  margin-left: 8px;
+  padding: 7px 12px;
+  border: none;
+  border-radius: 6px;
+  background-color: #333;
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.issue-action button:hover {
+  background-color: #555;
+}
+
+.issue-controls label {
+  font-size: 14px;
+  color: #333;
+}
+
+.issue-card p {
+  color: #333;
+  font-size: 15px;
+}
