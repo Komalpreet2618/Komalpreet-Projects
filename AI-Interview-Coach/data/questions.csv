@@ -1,0 +1,11 @@
+role,question,ideal_answer
+HR Interview,Tell me about yourself.,Share a concise summary of your background strengths and relevant achievements.
+HR Interview,Why should we hire you?,Connect your skills and impact to the company needs with specific examples.
+HR Interview,Explain a challenging project.,Describe the challenge your actions collaboration and measurable outcome.
+Software Engineer,Explain a challenging software project you built.,Cover architecture tradeoffs implementation testing and business impact.
+Software Engineer,How do you ensure code quality in a team?,Discuss code reviews automated tests CI/CD linting and standards.
+Software Engineer,How would you optimize a slow API endpoint?,Mention profiling query optimization caching async patterns and monitoring.
+Data Analyst,How do you approach analyzing a new dataset?,Explain business context cleaning EDA hypothesis testing and insight delivery.
+Data Analyst,Describe a time your analysis changed a decision.,Highlight your method stakeholder communication and impact.
+Data Analyst,What metrics would you track for product growth?,Cover activation retention conversion engagement and cohorts.
+Custom Role,Tell me about your relevant experience for this role.,Align your skills achievements and problem-solving with the role requirements.
