@@ -76,7 +76,7 @@ The application provides dashboards and visualizations to help monitor academic 
 
 **Technology Stack:**
 
-`Python` · `Streamlit` · `Pandas` · `Matplotlib`· `NumPy`· `SQL`· `Seaborn`
+`Python` · `Streamlit` · `Pandas` · `Plotly`· `NumPy`· `SQL`· `Seaborn`
 
 **Key Features:**
 
