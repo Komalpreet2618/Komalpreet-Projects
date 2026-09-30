@@ -36,7 +36,7 @@ The platform supports different user roles and provides workflows for reporting,
 
 **Project Status:** 🚧 In Development
 
-🔗 **[View CivicPulse Repository](https://github.com/Komalpreet2618/CivicPulse)**
+🔗 **[View CivicPulse Repository](./CivicPulse)**
 
 ---
 
